@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Unisanta</string>
+    <string name="campo_email">Digite Seu E-Mail</string>
+    <string name="campo_senha">Digite Sua Senha</string>
+    <string name="btn_entrar">Entrar</string>
+    <string name="sem_conta">Ainda Não Possui Conta?</string>
+</resources>
